@@ -1,8 +1,8 @@
 {
-    // package name
+    
     "name": "drdino/phpexcel",
 
-    // package type
+    
     "type": "yii2-extension",
 
     "description": "The Imagine integration for the Yii framework",
@@ -22,13 +22,13 @@
         }
     ],
 
-    // package dependencies
+    
     "require": {
         "yiisoft/yii2": "*",
         //"imagine/imagine": "v0.5.0"
     },
 
-    // class autoloading specs
+    
     "autoload": {
         "psr-4": {
             "yii\\phpexcel\\": ""
