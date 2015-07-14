@@ -24,8 +24,7 @@
 
     
     "require": {
-        "yiisoft/yii2": "*",
-        //"imagine/imagine": "v0.5.0"
+        "yiisoft/yii2": "*"
     },
 
     
