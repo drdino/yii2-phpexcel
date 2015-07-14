@@ -1,6 +1,6 @@
 {
     // package name
-    "name": "drdino/yii2-phpexcel",
+    "name": "drdino/phpexcel",
 
     // package type
     "type": "yii2-extension",
